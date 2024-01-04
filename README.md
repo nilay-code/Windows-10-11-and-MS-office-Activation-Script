@@ -8,7 +8,7 @@ _________________________________
 
 -   On Windows 10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
-    `irm https://massgrave.dev/get | iex`
+    `irm https://raw.githubusercontent.com/nilay-code/Windows-10-11-and-MS-office-Activation-Script/main/MAS.ps1 | iex`
 -   You will see the activation options, and follow onscreen instructions.
 -   That's all.
 
