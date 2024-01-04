@@ -16,7 +16,7 @@ _________________________________
 
 _________________________________
 
- - Project is supported only for Windows 10/11 and their Server equivalent.
+ - Project is supported only for Windows 10/11 and their Server equivalent and MS office 2016 or update version.
 
 _________________________________
 
