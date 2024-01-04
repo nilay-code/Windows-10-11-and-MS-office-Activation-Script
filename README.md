@@ -5,7 +5,7 @@ _________________________________
 ###   Activation:
 _________________________________
 
-
+-   Turn off your Antivirus
 -   On Windows 10/11, right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy-paste the below code and press enter\
     ```
